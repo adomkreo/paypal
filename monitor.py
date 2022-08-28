@@ -1,4 +1,5 @@
 lame
 dame
 rame
-goto
+got
+here we are fixing the bugo
